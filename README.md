@@ -61,7 +61,7 @@ My research interests have been focused on predicting molecular properties and r
 - ASE Calculators: Developed various ASE Calculators for interfacing with **[PySCF](https://github.com/kangmg/PySCF4ASE), [XequilNet](https://github.com/kangmg/XequiNet),** and [**MLatom**](https://github.com/kangmg/MLatom2ase)
 - [**OverlayMol**](https://github.com/kangmg/OverlayMol): Interactive Molecular Overlay plot and reaction trajectory viewer using Plotly
 - [**aimDIAS**](https://github.com/kangmg/aimDIAS): MLP (AIMNet2) based Activation Strain Analysis package
-- Additional Projects: More projects are available on my [**Github**](https://github.com/kangmg/image2music/blob/main/README.md)
+- Additional Projects: More projects are available on my [**Github**](https://github.com/kangmg)
 
 ◆ **Image to Music Recommendation Service *(Deep Learning)*** • [:octocat: Github](https://github.com/kangmg/image2music/blob/main/README.md)
   > 2024 Like Lion Data Analysis School DATATON • *June 2024*
