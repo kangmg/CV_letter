@@ -1,3 +1,6 @@
+> [!NOTE]
+> The PDF version of the CV letter can be found [here](https://github.com/kangmg/CV_letter/blob/main/CV.pdf).
+
 # <center>강민기 Mingi Kang</center>
 
 ## ▣ Contact
