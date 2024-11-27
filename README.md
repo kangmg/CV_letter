@@ -10,7 +10,9 @@
 
 ## ▣ Research interest
 
-My research interests have been focused on predicting molecular properties and reactivity through *ab initio* level calculations. Recently, I am particularly interested in understanding large scale systems and their properties using Machine Learning Potential based MD simulation at *ab initio* accuracy.
+My research has focused on predicting molecular properties and reactivity using *ab initio* calculations. Currently, I am particularly 
+interested in two areas: accelerating chemical discovery through Machine Learning Potentials and understanding large-scale systems 
+via MLP-based MD simulations at *ab initio* accuracy.
 
 ## ▣ Skills 
 
